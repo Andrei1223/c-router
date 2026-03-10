@@ -16,7 +16,6 @@ Run the following command to compile the project:
 
 ```
 make
-
 ```
 
 ### Cleanup
@@ -25,5 +24,4 @@ To remove compiled binaries and object files:
 
 ```
 make clean
-
 ```
